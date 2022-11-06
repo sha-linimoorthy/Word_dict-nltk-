@@ -1,1 +1,1 @@
-# Word_dict-nltk-
+# Word_dictionary
